@@ -127,7 +127,7 @@ const Navbar = ({size, setShow}) => {
       </div>
     </header>
     <div>
-            <img src='/images/slider.png' alt=''></img>
+            <img src='/images/slider.png' alt='' className= 'slider-img'></img>
             </div>
         {/* <div className="nav_box ">
             <span className="my_shop" onClick={()=>setShow(true)}>
